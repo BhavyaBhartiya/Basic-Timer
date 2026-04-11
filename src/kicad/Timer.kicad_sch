@@ -6087,7 +6087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 71.12 80.01 0)
 			(hide yes)
 			(show_name no)
